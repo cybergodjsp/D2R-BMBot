@@ -42,3 +42,47 @@ C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R-BMBot-main\obj
 C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R-BMBot-main\obj\Debug\app.exe
 C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R-BMBot-main\obj\Debug\app.pdb
 C:\Users\boule\OneDrive\Documents\Visual Studio 2022\Projects\D2R-BMBot-main\obj\Debug\FormAdvancedSettings.resources
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\Char\PaladinHammer.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\Char\SorceressBlizzard.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\CubingRecipes.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\BotSettings.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\CharSettings.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\Settings\ItemsSettings.txt
+C:\Users\cyber\coding\bmbot\bin\Debug\app.exe.config
+C:\Users\cyber\coding\bmbot\bin\Debug\app.exe
+C:\Users\cyber\coding\bmbot\bin\Debug\app.pdb
+C:\Users\cyber\coding\bmbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Buffers.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Memory.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Text.Json.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\WindowsInput.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.ValueTuple.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cyber\coding\bmbot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cyber\coding\bmbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Buffers.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Memory.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\cyber\coding\bmbot\bin\Debug\WindowsInput.xml
+C:\Users\cyber\coding\bmbot\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\cyber\coding\bmbot\obj\Debug\Form1.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\FormAdvancedSettings.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\FormCharSettings.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\FormD2LOD.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\FormItems.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\FormSettings.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\OverlayForm.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\app.Properties.Resources.resources
+C:\Users\cyber\coding\bmbot\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\cyber\coding\bmbot\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\cyber\coding\bmbot\obj\Debug\app.csproj.Up2Date
+C:\Users\cyber\coding\bmbot\obj\Debug\app.exe
+C:\Users\cyber\coding\bmbot\obj\Debug\app.pdb
